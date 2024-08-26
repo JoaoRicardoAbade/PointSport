@@ -38,13 +38,6 @@ color: white;
   height:200px ;
   border-radius: 360px;
 }
-.video {
-  margin: 20px;
-  width:500px ;
-  height:270px ;
-  border-radius: 50px;
-}
-
 .eu{
   color:aliceblue;
   text-align: left;
@@ -59,22 +52,6 @@ nav ul li .dropdown-content{
   z-index: 1;
   min-width: 160px;
   padding: 0;
-}
-/*dropdown*/
-nav ul li .dropdown-content li {
-  margin: 0;
-}
-
-nav ul li .dropdown-content li a{
-  padding: 1px 20px;
-}
-
-nav ul li .dropdown-content li a:hover{
-  background-color: darkgrey;
-}
-
-nav ul li:hover .dropdown-content{
-  display: block;
 }
 /*footer*/
 footer{
